@@ -38,7 +38,7 @@ class AutoClassV2 {
     this.insassenMin = 1,
     required this.baujahr,
     required this.elektrisch,
-    required this.fahrer,
+     this.fahrer,
     required this.alter,
   });
 
